@@ -1,1 +1,0 @@
-**Ces règles ont été à leurs débuts écrites avec les participations des Conseillers, GM et administrateurs suivants, qu'ils en soient bénis et remerciés : Basha, Batsoleil, Bicrossben, Cedro, DogMael, Eowyn, Lestat, Syrio et Revan. Par la suite, elles ont étés adaptées en temps et en heure par le Staff de Vae Soli ; notamment grâce à la plume de Meliäa.**

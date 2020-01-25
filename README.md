@@ -133,6 +133,7 @@
 1. [Textes et Écrivains](textes-et-autres/background-de-vae-soli/textes-et-ecrivains.md)
 1. [Règlementation sur le copyright](textes-et-autres/background-de-vae-soli/reglementation-sur-le-copyright.md)
 
-### Crédits
+### Licence et remerciements
 
-- [Crédits](textes-et-autres/credits/credits.md)
+1. [Licence](textes-et-autres/licence-et-remerciements/licence.md)
+1. [Remerciements](textes-et-autres/licence-et-remerciements/remerciements.md)
