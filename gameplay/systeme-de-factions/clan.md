@@ -1,0 +1,3 @@
+Un clan est composé d'au minimum deux personnes physiques. Il donne droit à l'usage de la banque de clan, la location de hall de clan et bien sûr l'utilisation du canal de clan (@). Il n'est soumis à aucune obligation roleplay mais rien ne vous empêche de lui donner un caractère roleplay.
+
+Le clan est un groupement officieux de personnes n'ayant pas vraiment d'existence propre. Cela rassemble 2 personnes minimum et ils vivent leur petite existence en dehors du monde (HRP : cela peut être un groupe de quelques amis voulant bénéficier des avantages de la banque de clan ou du canal de discussion de clan).

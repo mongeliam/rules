@@ -1,0 +1,1 @@
+Il vous est possible sur Vae Soli d'incarner des personnages faisant partie d'un archétype particulier, comme les Vampires ou les Démons. Vous ne pourrez accéder à ceux-ci qu'en passant par une validation de la part des GMs.

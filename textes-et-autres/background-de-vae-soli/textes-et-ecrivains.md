@@ -1,0 +1,5 @@
+Tout joueur peut proposer un texte à Vae Soli dans le but d'étoffer le cadre rôle-play de celui-ci, ou simplement par plaisir. Pour ce faire, il y a deux possibilités :
+
+Celui-ci peut être envoyé par message privé à l'un des Conseillers ([Liste des Conseillers](http://forum.vae-soli.fr/memberlist.php?mode=group&g=14)) qui se chargera du travail de correction — ou de remaniement au besoin. Une première réponse vous sera adressé dans les meilleurs délais, pouvant vous inviter à la discussion pour exposer votre point de vue en cas d'incompréhension ou de travail prévu sur le texte avant validation.
+
+Celui-ci peut être posté dans la partie [Écrits Communautaires](http://forum.vae-soli.fr/viewforum.php?f=351), où n'importe quelle personne du serveur pourra participer en accord avec l'auteur et donner son avis. Le processus de validation reste le même : les Conseillers et le Staff, après une première lecture lorsque le statut _[Terminé]_ est spécifié, apportent leur avis et leurs demandes de modifications si besoin — comme cela se ferait dans la première possibilité — avant de procéder à la validation.

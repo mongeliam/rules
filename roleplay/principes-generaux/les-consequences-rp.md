@@ -1,0 +1,1 @@
+Bien entendu, vous pourrez jouer le personnage qui vous plaira, selon une mentalité voire une religion propre, tant que cela demeurera cohérent avec l'histoire même de Vae Soli par ses textes. Attention cependant ; être différent (croyances, malus, traits du comportement excessifs, etc.) vous expose à être menacé par la majorité dominante, à vos risques et périls (voir ci-après).

@@ -1,0 +1,4 @@
+Ce paragraphe est fourni à titre indicatif au joueur, pour permettre à Vae Soli de remplir ses obligations dans le cadre de L'article 43-7 de la loi concernant le contenu sur Internet. Elle stipule que le joueur doit être informé de façon claire, afin qu'il puisse faire le choix de s'immerger dans notre univers ou pas.
+
+Sur Vae Soli, que ce soit le forum ou le jeu, vous pourrez faire la lecture de scènes de violence, de paroles grossières ou de sujets sensibles, à l'intention d'un auditoire adulte. La supervision des parents est conseillée dans le cas d'un joueur n'ayant pas atteint la majorité légale.
+<center><img src="assets/img/icons/pegi_explicit_big.gif"> <img src="assets/img/icons/pegi_sexuality_big.gif"> <img src="assets/img/icons/pegi_violence_big.gif"> <img src="assets/img/icons/pegi_16_big.gif"></center>

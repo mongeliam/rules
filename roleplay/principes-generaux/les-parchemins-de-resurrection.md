@@ -1,0 +1,1 @@
+Un parchemin de résurrection remet sur pied le personnage mis à terre, et lui permet de retourner se battre immédiatement ; ses blessures seront considérées comme stabilisées momentanément. Cependant, passé un délai de 15mn IRL, les blessures ayant mis le personnage à terre nécessiteront des soins supplémentaires, car la magie de résurrection aura cessé de faire effet.
