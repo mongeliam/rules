@@ -8,11 +8,6 @@
 - **En jeu :** ce sont des joueurs comme les autres, il est donc préférable de les contacter par forum, sauf question urgente.
 - **Forum :** ils sont joignables par message privé.
 
-##### Responsables Wiki
-
-- **En jeu :** ce sont des joueurs comme les autres, il est donc préférable de les contacter par forum.
-- **Forum :** ils sont joignables par message privé.
-
 ##### Remarque
 
 Les GMs comme les Conseillers sont d'abord et avant tout des joueurs ; merci donc de respecter ce fait et de ne pas insister s'ils ne peuvent répondre à votre demande rapidement en jeu, de ne donc pas les flooder sous peine de sanctions.

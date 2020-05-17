@@ -1,6 +1,8 @@
-Chaque message posté sur le forum doit être accueilli avec respect et courtoisie, que l'on soit d'accord avec celui-ci ou pas.
+Pour que le forum soit le plus vivant possible, tous les messages -- appropriés -- sont les bienvenus. 
 
-Le Staff se réserve le droit de modérer, supprimer, verrouiller ou déplacer un message ou un sujet, pour que ce forum reste un lieu d'échange accueillant et constructif pour tous. Merci donc de faire preuve de maturité : quand le staff effectue ce genre d'actions, ce n'est pas contre vous mais bien dans l'intérêt du serveur. Des sanctions IG pourront être ajoutées aux sanctions du forum si besoin, et vice-versa. Exemple de contenu à caractère sensible, susceptible d'être modéré :
+Le Staff peut toutefois modérer, supprimer, verrouiller ou déplacer un message ou un sujet qui ne serait pas à sa place ou contreviendrait à la Charte.
+
+Exemple de contenu à caractère sensible, susceptible d'être modéré :
 
 - raciste
 - religieuse
@@ -10,7 +12,9 @@ Le Staff se réserve le droit de modérer, supprimer, verrouiller ou déplacer u
 - à polémique gratuite
 - insultant
 
-Tous les messages doivent être rédigés dans un français correct, clair et compréhensibles par tous. Pas de langage SMS donc. Il existe au besoin des outils dédiés pour corriger les fautes de syntaxe dans votre navigateur internet ; n'hésitez pas à contacter un Conseiller ou à consulter [ce sujet](https://forum.vae-soli.fr/viewtopic.php?f=29&t=14657#p241808) pour en savoir plus. Si vous présentez une dyslexie ou un autre trouble de l'écriture connu, vous pouvez le signaler en pm au Staff si vous le désirez.
+Tous les messages doivent être rédigés dans un français correct, clair et compréhensibles par tous. Il existe au besoin des outils dédiés pour corriger les fautes de syntaxe dans votre navigateur internet ; n'hésitez pas à contacter un Conseiller ou à consulter [ce sujet](https://forum.vae-soli.fr/viewtopic.php?f=29&t=14657#p241808) pour en savoir plus. Si vous présentez une dyslexie ou un autre trouble de l'écriture connu, vous pouvez le signaler en pm au Staff si vous le désirez.
+
+Merci d’éviter également de (re)créer ou (re)lancer un sujet, en vérifiant au préalable qu’il n’en existe pas un similaire.
 
 Postez vos messages dans la section appropriée à leur thème, dans la mesure du possible. Tout sujet mal rangé sera déplacé par l'équipe du Staff.
 
