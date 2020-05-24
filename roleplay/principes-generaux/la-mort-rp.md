@@ -1,3 +1,5 @@
 Un GM, par sa qualité de maître du jeu, a le droit de mort sur votre personnage. Parfois, cela sera convenu à l'avance avec le joueur concerné lors d'un événement, mais il pourra aussi être contraint d'agir si des joueurs se montrent trop impétueux ou irréfléchis (i.e : une armée vous fait face et vous foncez pourtant tête baissée, une bâtisse est menacée d'exploser et pourtant vous persévérez à vouloir demeurer à l'intérieur d'une façon héroïque, etc.).
 
 Un joueur peut avoir le droit de mort sur votre personnage, mais par des conditions bien particulières. Que cela soit un assassinat, une exécution, ou encore un simple coup de sang, cela devra passer par un message demandant l'accord à la partie tierce pour tuer son personnage. Si celui-ci refuse et que, malgré les discussions, aucune issue ne parvient à satisfaire les deux parties, une demande auprès des GM pourra être faite en leur exposant toutes les raisons de ce choix afin qu'ils donnent ou non leur aval — leur décision, quant à elle, sera absolue et irrévocable.
+
+En cas de mort et de rename, tous les attributs (niveaux, skills, équipement) du personnage seront récupérés.

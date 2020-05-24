@@ -1,1 +1,3 @@
-Outre la règle demandant d'écrire en français correct et non en sms, il vous est demandé de faire attention à votre vocabulaire. A l'époque médiévale, on n'utilisait pas les mêmes insultes, pas les mêmes expressions, et on parlait un niveau de langue qui correspondait à son rang. Nous ne vous demandons pas d'aller jusqu'à parler l'ancien français mais évitez le langage familier de notre époque. Pour vous donner une base, voici un [recueil de mots et d'expressions](http://defenseurs.forumactif.org/t309-vocabulaire-medieval) que vous pouvez utiliser.
+Essayez d’employer un vocabulaire adapté. Dans une ère médiévale-fantastique, il est improbable d’utiliser les mêmes insultes ou les mêmes expressions qu’aujourd’hui. En général, les personnages parlent également selon leur rang.
+
+Pour vous donner une base, voici un [recueil de mots et d'expressions](http://defenseurs.forumactif.org/t309-vocabulaire-medieval) que vous pourriez utiliser.

@@ -1,4 +1,4 @@
-À partir du niveau 40, un BG validé est demandé. Sans celui-ci, vous serez automatiquement mis en prison ; comprenez par là que Vae Soli dispose d'un code informatique qui détecte tous les personnages auxquels n'est pas associé un BG ou une fiche. Vous y resterez jusqu'à ce que votre BG soit validé par un Conseiller.
+À partir du niveau 61, un BG validé est demandé.
 
 Pour les personnages appartenant à une Guilde, cependant, le niveau n'a pas d'importance. Le personnage doit obligatoirement posséder un BG validé, faute de quoi il sera mis en prison et/ou sorti de la Guilde de force. Un chef de Guilde doit donc vérifier cette donnée avant d'accepter tout nouveau joueur.
 
