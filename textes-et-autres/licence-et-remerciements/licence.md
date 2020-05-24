@@ -1,4 +1,4 @@
-Ces règles sont publiées sous licence Creative Commons [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) et sont librement disponibles sur [le dépôt dédié](https://git.melua.fr/vaesoli/rules) (cette page est générée depuis ces sources).
+Ces règles sont publiées sous licence Creative Commons [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) et sont librement disponibles sur [le dépôt dédié](https://github.com/vae-soli-fr/rules) (cette page est générée depuis ces sources).
 
 Cette licence vous autorise à copier, distribuer et communiquer ces règles par tous moyens et sous tous formats en respectant toutes les conditions :
 
