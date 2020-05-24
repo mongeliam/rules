@@ -1,6 +1,6 @@
-Les joueurs ont la possibilité de renommer leur(s) personnage(s) en cas de mort rôle-play ou de disparition. Bien entendu, un tel changement obéit à une réglementation stricte que quiconque devra suivre pour pouvoir prétendre à celui-ci.
+Les joueurs ont la possibilité de renommer leur(s) personnage(s) en cas de mort rôle-play ou de disparition. Bien entendu, un tel changement obéit à une réglementation sérieuse qu’il convient de suivre pour pouvoir en profiter.
 
-Eh oui. Car renommer un personnage, cela veut dire l'abandonner pour de bon, clore son histoire et son passé et les enterrer. Nous ne souhaitons pas que cette décision soit prise à la légère.
+Renommer un personnage, cela veut dire l'abandonner pour de bon, clore son histoire et son passé et les enterrer. Nous ne souhaitons pas que cette décision soit prise à la légère.
 
 ##### Attention
 

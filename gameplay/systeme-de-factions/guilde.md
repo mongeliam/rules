@@ -1,4 +1,4 @@
-Une guilde est composée d'au minium trois personnes physiques. Au droit d'un clan s'ajoutent la possibilité de prendre un chateau et sa ville ou une forteresse. Il est soumis à un background pour la guilde et d'une mise à jour de tous les background des personnages qui la compose.
+Une guilde est composée d'au minimum quatre personnes physiques actives. Au droit d'un clan s'ajoutent la possibilité de prendre un chateau et sa ville ou une forteresse. Il est soumis à un background pour la guilde et d'une mise à jour de tous les background des personnages qui la compose.
 
 Quand une guilde se créee elle est incorporée dans la faction du chef, toutefois il a été vu parfois des Guildes résistantes. Ces guildes ont été parfois été attaquées et enrôlée de force par une faction. D'autres fois rasées. Il existe toutefois un ou deux cas où les guildes créées ont trouvé le moyen de vivre sans la protection d'une faction ou sans y être intégrée d'une manière ou d'une autre.
 

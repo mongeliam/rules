@@ -22,20 +22,3 @@ Il existe deux moyens : par vous-même — et ce de plusieurs façons, et via un
 - Class Skills
  + Final Form Kamael, aucun scroll
  + Golem Armor : Maestro Dwarf, Forgotten Scroll sur Plague Golem
-
-##### Via un GM uniquement
-
-- Benom
-- Gordon
-- Demon Prince
-- Yéti
-- Buffalo
-- Native
-- Vale Master
-
-Pour toutes les transformations que vous ne pourrez avoir que par un GM, un formulaire de demande est à  envoyer à un [GM](http://forum.vae-soli.fr/memberlist.php?mode=group&g=12).
-
-	[u]Nom du compte Forum[/u] :
-	[u]Nom du compte joueur[/u] : 
-	[u]Nom du personnage en jeu[/u] :
-	[u]Nom de la transformation[/u] :

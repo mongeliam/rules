@@ -1,11 +1,7 @@
-Chacune des factions à un siège à la nouvelle Astéria, avec un lieu de regroupement (Freya's garden pour les bons, crystal cavern sous parnassus pour les neutres et le château de seed of destruction pour les mauvais). Dans ce lieu les membres de la faction se retrouvent, parlent des plans à effectuer, des actions à entreprendre, des positions politiques à avoir, etc etc.
+La province de l’Ouest : tous les joueurs démarrent, au lancement du serveur, sur les terres de l’Ouest ; lesquelles recouvrent les villes de Gludin, Gludio et Althéna ainsi que leurs territoires attenants. 
 
-Astéria est une ville neutre et toutes les factions se retrouvent pacifiquement, c'est le centre névralgique des discussions politiques, des créations d'alliances et autres. Les conflits y sont interdits et toute personne dérogeant à la règle court de graves sanctions, cela pouvant aller du revois de la faction, à une peine de prison, en passant par la mort.
+Dans les premières semaines d’existence du serveur, les joueurs seront amenés à révéler et débloquer les zones adjacentes et plus lointaines selon le RP qu’ils entretiendront avec les différents protagonistes de la guerre en cours.
 
-Astéria a vu le jour de ces trois pouvoirs. Ils s'auto-maintiennent par des accords politiques et de bonne entente. A Althéna aucun conflit n'est toléré entre faction. Tout manquement à cette règle sera sévérement puni par les autorités (emprisonnement, exil, mort, etc).
+Rien ne vous empêche d’appartenir à l’une des autres villes du continent ni même d’entretenir des intérêts contradictoires, à condition bien sûr de respecter le cadre RP fixé par l’Histoire du Monde (renvoyer lien) et d’une manière ou d’une autre, trouver une raison qui vous pousse à rejoindre les terres du Royaume de l’Ouest puisque toutes les autres zones sont lock (GP parlant) pour l’heure.
 
-Astéria est le centre névralgique de toute politique. Toute la ville a été modifiée afin de connaître cette paix entre les pouvoirs tout en les accueillant.
-
-Il faut voir une, de manière IRL, les factions comme ONU (organisation des nations unies)  dont les pays adérants sont les différentes Guildes ainsi que des personnes externes (les PJs sans Guilde).
-
-Les réunions de Factions se déroulent à Astéria dans les lieux prévus à cet effet (Crystal Cavern, Château de seed of Destruction et Château de Freya). Si les différentes factions souhaitent se rencontrer entre elles, le lieu sera choisi parmi ces trois lieux, sous haute surveillance d'Althéna pour éviter les attaques durant ces réunions.
+Cette contrainte ne s’applique qu’aux premières semaines/mois du serveur puisqu’elle disparaîtra à mesure de l’avancée des joueurs.
